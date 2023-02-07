@@ -1,0 +1,13 @@
+{
+    "name": "LoRA Pokemon SD1.5",
+    "category": "Computer Vision",
+    "example_input": {
+        "prompt": "A blue pokemon",
+        "inference_steps": 30,
+        "guidance_scale": 7
+    },
+    "example_output": {
+        "base64_output": "<BASE64_IMAGE>"
+    },
+    "version": "1"
+  }
