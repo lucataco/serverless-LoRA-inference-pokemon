@@ -1,7 +1,7 @@
 
 # 🍌 Banana Serverless
 
-This repo gives a framework to run inference on a LoRA model in production using simple HTTP servers. The original Poekmon Model with base runwayml/stable-diffusion-v1-5 be found [here](https://huggingface.co/pcuenq/pokemon-lora)
+This repo gives a framework to run inference on a LoRA model in production using simple HTTP servers. The original Poekmon Model with base runwayml/stable-diffusion-v1-5 can be found [here](https://huggingface.co/pcuenq/pokemon-lora)
 
 ![demo output image](https://github.com/lucataco/serverless-LoRA-inference-pokemon/blob/main/output.jpg?raw=true)
 
